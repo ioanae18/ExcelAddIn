@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Faculta\\FACULTA_MASTER\\ANULI-SEM1\\Ingineria Programarii si Limbaje de Asamblare\\ProiectFinalIP\\ExcelAddIn\\DBModels\\DBModels.csproj": {}
+  },
+  "projects": {
+    "E:\\Faculta\\FACULTA_MASTER\\ANULI-SEM1\\Ingineria Programarii si Limbaje de Asamblare\\ProiectFinalIP\\ExcelAddIn\\DBModels\\DBModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Faculta\\FACULTA_MASTER\\ANULI-SEM1\\Ingineria Programarii si Limbaje de Asamblare\\ProiectFinalIP\\ExcelAddIn\\DBModels\\DBModels.csproj",
+        "projectName": "DBModels",
+        "projectPath": "E:\\Faculta\\FACULTA_MASTER\\ANULI-SEM1\\Ingineria Programarii si Limbaje de Asamblare\\ProiectFinalIP\\ExcelAddIn\\DBModels\\DBModels.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Faculta\\FACULTA_MASTER\\ANULI-SEM1\\Ingineria Programarii si Limbaje de Asamblare\\ProiectFinalIP\\ExcelAddIn\\DBModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

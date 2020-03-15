@@ -1,0 +1,18 @@
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\bin\Debug\netstandard2.0\DBModels.deps.json
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\bin\Debug\netstandard2.0\DBModels.dll
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.csprojAssemblyReference.cache
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.csproj.CoreCompileInputs.cache
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.AssemblyInfoInputs.cache
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.AssemblyInfo.cs
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\bin\Debug\netstandard2.0\DBModels.pdb
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.dll
+E:\Faculta\FACULTA_MASTER\ANUL I, SEM 1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.pdb
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\bin\Debug\netstandard2.0\DBModels.deps.json
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\bin\Debug\netstandard2.0\DBModels.dll
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\bin\Debug\netstandard2.0\DBModels.pdb
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.csprojAssemblyReference.cache
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.csproj.CoreCompileInputs.cache
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.AssemblyInfoInputs.cache
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.AssemblyInfo.cs
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.dll
+E:\Faculta\FACULTA_MASTER\ANULI-SEM1\Ingineria Programarii si Limbaje de Asamblare\ProiectFinalIP\ExcelAddIn\DBModels\obj\Debug\netstandard2.0\DBModels.pdb
